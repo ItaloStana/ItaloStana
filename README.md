@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ItaloStana a full-stack developer junior
-- HTML | CSS | Javascript | React | Node.js
-- 👀 I’m interested in full-stack developer and mobile developer
-- 🌱 I’m currently learning back-end languages and mobile languages
-- 📫 How to reach me https://italodevjs.000webhostapp.com/
-
+- 👋 Olá, me chamo Italo sou um desenvolvedor júnior
+- 👀 Tenho habilidades em desenvolvimento Mobile e Full-stack
+- No desenvolvimento mobile, estou estudando a linguagem Dart e o framework Flutter onde posso desenvolver aplicações cross-platform tanto para Android quanto para iOS
+- No desenvolvimento full-stack, tenho habilidades com a linguagem Javascript, React.js e Vue.js para o front-end na parte de back-end com o Node.js
+- Atualmente faço faculdade de Análise e desenvolvimento de sistemas na Descomplica Faculdade Digital, sou uma pessoa que adora se desafiar e aprender com os desafios.
+- 
+  
 
