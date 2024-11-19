@@ -1,8 +1,8 @@
-<h2 align="center">Olá sou Ítalo, Desenvolvedor Mobile/Full-stack</h2>
+<h1 align="left">Olá sou Ítalo, Desenvolvedor Mobile/Full-stack</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
@@ -32,7 +32,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/italomaranhaostana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -53,10 +53,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ItaloStana/ItaloStana/output/snake.svg" alt="Snake animation" />
+<img align="left" src="https://profile-counter.glitch.me/ItaloStana/count.svg?"  />
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/ItaloStana/count.svg?"  />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ItaloStana" alt="Layout with last medium posts"  />
+</div>
 
 ###
