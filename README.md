@@ -56,9 +56,3 @@
 <img align="left" src="https://profile-counter.glitch.me/ItaloStana/count.svg?"  />
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ItaloStana" alt="Layout with last medium posts"  />
-</div>
-
-###
