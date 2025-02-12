@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-<p align="center">
+<p align="start">
   <img src="https://skillicons.dev/icons?i=flutter,react,dotnet,nodejs,mongodb,postgresql,mysql,git,github,vscode" />
 </p>
 
