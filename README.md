@@ -21,7 +21,7 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-<p align="center">
+<p align="start">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ItaloStana&show_icons=true&theme=radical&count_private=true&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloStana&layout=compact&langs_count=6&theme=radical&hide_border=true" />
 </p>
@@ -29,7 +29,7 @@
 ---
 
 ## 🌍 Onde me encontrar?
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/italofmaranhao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
