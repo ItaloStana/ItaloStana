@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,typescript,nodejs,dotnet,mongodb,postgresql,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,c#,dotnet,javascript,nodejs,mongodb,postgresql,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -30,13 +30,13 @@
 
 ## 🌍 Onde me encontrar?
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/italofmaranhao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/italo" target="_blank">
+  <a href="https://github.com/ItaloStana" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:italomaranhaodev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
