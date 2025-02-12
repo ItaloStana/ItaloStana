@@ -1,53 +1,43 @@
-<h1 align="left">Olá sou Ítalo, Desenvolvedor Mobile/Full-stack</h1>
+<h1 align="center">Olá, eu sou Ítalo! 👋</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&width=435&lines=Desenvolvedor+Full-Stack;Flutter+%7C+React+%7C+.NET+%7C+Node.js;Criando+Experiências+Digitais" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-</div>
+---
 
-###
+## 🚀 Sobre Mim
+💻 Desenvolvedor full-stack apaixonado por tecnologia.  
+📱 Foco atual: **Flutter para mobile, React e .NET para web**.  
+🔍 Buscando sempre aprender novas tecnologias e melhorar minhas habilidades.  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/italomaranhaostana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+---
+
+## 🛠️ Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,typescript,nodejs,dotnet,mongodb,postgresql,mysql,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italo&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo&layout=compact&langs_count=6&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Onde me encontrar?
+<p align="center">
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="italomaranhaodev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://github.com/italo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/italomaranhaostana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItaloStana&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloStana&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="135" alt="languages graph"  />
-</div>
+</p>
 
