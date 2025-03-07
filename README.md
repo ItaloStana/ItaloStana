@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 💻 Desenvolvedor full-stack apaixonado por tecnologia.  
-📱 Foco atual: **Flutter para mobile, React e .NET para web.**.  
+📱 Foco atual: **Vue.js e .NET para web, Flutter para mobile!**.  
 🔍 Buscando sempre aprender novas tecnologias e melhorar minhas habilidades.  
 
 ---
