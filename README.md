@@ -1,7 +1,7 @@
 <h1 align="start">Olá, eu sou Ítalo! 👋</h1>
 
 <p align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&width=435&lines=Desenvolvedor+Full-Stack;.Net+%7C+React+%7C+Flutter+%7C+Firebase" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&width=435&lines=Desenvolvedor+Full-Stack;Vue.js+%7C+.Net+%7C+Flutter+%7C+Firebase" />
 </p>
 
 ---
